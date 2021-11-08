@@ -1,2 +1,2 @@
 # pepOS
-Calculator OS for Pi Pico
+Calculator OS for Pi Pico. Currently under development still. Doesn't yet boot to anything. Eventually should be able to run calculator programs but also facilitate user-loaded programs to let the user write for the Pico. Any UF2 loaded will run (if compiled with the pico sdk). My goal is to create a space for higher level code and functions - libraries for graphics and input using the eventual hardware input pad.
